@@ -10,7 +10,7 @@ Teste para vaga de Desenvolvedor Backend Jr.
 
 1°- Faça um clone do repositório utilizando os comandos:
 ```
-$git clone https://github.com/gabriel-cheng/teste-ng-cash
+$git clone https://github.com/gabriel-cheng/teste-ng.cash
 ```
 
 2°- Dentro do diretório clonado, execute o seguinte comando:
